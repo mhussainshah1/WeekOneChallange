@@ -50,7 +50,7 @@ public class Main {
                 System.out.println(i + " is a prime number");
             } else {
                 System.out.println(i + " is not a prime number");
-            } 
+            }
         }
     }
 }
